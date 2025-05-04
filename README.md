@@ -27,10 +27,5 @@ All steps are button-triggered and guided with tooltips, notifications, and visu
 
 This app bridges the gap between finance and machine learning, making predictive modeling intuitive, visual, and accessible.
 ## 🚀 Deployment Link:
-👉 [Insert your Streamlit deployment link here]
+👉 https://linear-regression-app-jl8ssibqxpvzn8qzxtypyz.streamlit.app/
 
-## 🎥 Demo Video:
-📹 [Insert YouTube or Google Drive video link here]
-
-## 📂 GitHub Repository:
-🔗 [Insert your GitHub repo link here]
